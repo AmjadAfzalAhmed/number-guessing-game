@@ -1,5 +1,6 @@
 #! /usr/bin/env node
 
+// creation of command line interface number guessing game with the help of inquirer package
 import inquirer from "inquirer";
 
 

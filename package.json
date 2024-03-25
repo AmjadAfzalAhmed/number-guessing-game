@@ -1,7 +1,7 @@
 {
   "name": "@amjad_bhutto/number-guessing-game",
   "version": "1.0.0",
-  "description": "Command Line NumberGuessing",
+  "description": "Command Line Number Guessing",
   "main": "index.js",
   "type": "module",
   "publishConfig": {
